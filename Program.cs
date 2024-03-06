@@ -88,3 +88,4 @@ for (int i = 31; i < 100; i++)
 	}
 }
 Console.WriteLine(res);
+Console.ReadLine();
